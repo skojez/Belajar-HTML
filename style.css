@@ -1,0 +1,29 @@
+body{
+    color: purple;
+}
+
+
+h3{
+    color: red;
+}
+
+.skill-text{
+    color: green;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+
+.kanan{
+    float: right;
+    margin: 10px;
+}
+
+.grid-container {
+    display: grid;
+  grid-template-columns: auto auto auto;
+}
+
+.grid-item {
+    background-color: rgba(255, 255, 255, 0.8);
+    text-align: left;
+}
